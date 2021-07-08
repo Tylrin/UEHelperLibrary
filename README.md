@@ -1,2 +1,2 @@
 # UE HelperLibrary
-![UEHelperLibrary Logo](/UEHelperLibrary/Export/UEHelperLibrary_Logo.png)
+![UEHelperLibrary Logo](/UEHelperLibraryResources/Export/UEHelperLibrary_Logo.png)
