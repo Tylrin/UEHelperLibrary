@@ -1,5 +1,5 @@
 # UE HelperLibrary
-![UEHelperLibrary Logo](/UEHelperLibraryResources/Export/UEHelperLibrary_Logo.png)
+![UEHelperLibrary Logo](/Resources/Export/UEHelperLibrary_Logo.png)
 The UE Helper Library is a collection with helpful tools and assets for your Unreal Engine project.
 It includes assets for rendering and previewing assets.
 
