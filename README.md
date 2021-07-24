@@ -8,7 +8,7 @@ Clone or download the project and open the project. Search for the useful assets
 
 ## What is included?
 ### Project Design
-- [Resources/ProjectDesign/README.md](Project Design README.md)
+- [ProjectDesign README](Resources/ProjectDesign/README.md)
 ### Rendering
-* two color calibrator
+* two color calibrators
 * neutral lighting scene
