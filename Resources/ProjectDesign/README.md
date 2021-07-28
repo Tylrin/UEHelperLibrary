@@ -7,3 +7,4 @@ The file includes:
 * UE Game Splash
 * GitHub Social Preview Image
 * UE Project Logo (for ingame decals)
+* EOS Product Cover Image
